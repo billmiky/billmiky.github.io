@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.billmiky.mise",
+      "sha256_cert_fingerprints": ["2E:28:F4:58:37:4E:38:A9:38:60:B0:AF:E3:D5:A0:A0:84:EC:6A:63:53:12:80:8B:D6:EE:35:18:DD:3A:50:A9"]
+    }
+  }
+]
